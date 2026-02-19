@@ -44,7 +44,8 @@ Qx Health cross-references digitized theatre notes with hospital billing systems
 By eliminating the 7–14 day manual reporting lag (WDSS), Qx Health provides near-real-time heatmaps for outbreaks such as Cholera or Malaria, enabling proactive public health interventions.
 
 ## 5. GOVERNANCE AND SOVEREIGNTY
-In alignment with **Education 5.0**, Qx Health is anchored at HIT as a neutral, academic-led custodian. 
+In alignment with **Education 5.0**, Qx Health will be anchored at HIT as a neutral, academic-led custodian. 
+
 * **Regulatory Compliance:** Auditable logs ensure full transparency for POTRAZ oversight.
 * **Data Residency:** All data remains within Zimbabwean sovereign borders, managed through HIT-governed infrastructure.
 
